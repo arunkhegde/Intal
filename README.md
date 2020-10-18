@@ -1,3 +1,5 @@
+PES1201801708.c is the library and you can utilize it as shown in sampletest.c
+
 Introduction:
 An intal is a nonnegative integer of arbitrary length, but it is sufficient for your implementation to support up to 1000 decimal digits. 
 The integer is stored as a null-terminated string of ASCII characters. An intal is represented as a string of decimal digits
