@@ -1,4 +1,4 @@
-Introduction
+Introduction:
 An intal is a nonnegative integer of arbitrary length, but it is sufficient for your implementation to support up to 1000 decimal digits. 
 The integer is stored as a null-terminated string of ASCII characters. An intal is represented as a string of decimal digits
 that are stored in the big-endian style. That is, the most significant digit is at the head of the string.
